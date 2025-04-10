@@ -1166,7 +1166,7 @@ func banner() {
 \________(____  /\____ |____/ 
               \/      \/      
 
-	                           [Coded by Karthik-HR0]
+	                           [Coded by arunthehacker]
 	                            [Version %s%s%s%s]
 `, versionColor, currentVersion, versionStatus, "\033[37m") // Reset color at end
 }
