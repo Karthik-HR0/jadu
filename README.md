@@ -29,7 +29,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/go-1.16+-blue.svg" alt="Go 1.16+">
   <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License">
-  <a href="https://twitter.com/KarthikHR0"><img src="https://img.shields.io/twitter/follow/KarthikHR0.svg?logo=X"></a>
+  <a href="https://twitter.com/Karthik__hr"><img src="https://img.shields.io/twitter/follow/KarthikHR0.svg?logo=X"></a>
 </p>
 
 <h6 align="center">
